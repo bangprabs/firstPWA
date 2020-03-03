@@ -1,0 +1,15 @@
+{
+    "name": "About Bogor",
+    "short_name": "Bogor",
+    "theme_color": "#f4f6eb",
+    "background_color": "#f4f6eb",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [{
+        "src": "assets/images/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }]
+}
